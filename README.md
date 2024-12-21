@@ -17,6 +17,7 @@ Full Stack Data Scientist with strategy consulting and start up experience
 | Lib                                             | Description                                                                                             |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [Speedup](https://github.com/Garyli2333/layer_skip)   | A LLM Inference Acceleration framework.                                                      |
+| [RL](https://github.com/Garyli2333/Reinforcement-Learing)   | Repository for Reinforcement Learning                                                      |
 
 
 
